@@ -225,8 +225,11 @@ PRODUCT_COPY_FILES += \
     vendor/leagoo/z5/proprietary/lib/libcamalgo.so:system/lib/libcamalgo.so \
     vendor/leagoo/z5/proprietary/lib/libcamdrv.so:system/lib/libcamdrv.so \
     vendor/leagoo/z5/proprietary/lib/libcamdrv_FrmB.so:system/lib/libcamdrv_FrmB.so \
+	vendor/leagoo/z5/proprietary/lib/libcamera_client.so:system/lib/libcamera_client.so \
     vendor/leagoo/z5/proprietary/lib/libcamera_metadata.so:system/lib/libcamera_metadata.so \
+	vendor/leagoo/z5/proprietary/lib/libcamera2ndk.so:system/lib/libcamera2ndk.so \
     vendor/leagoo/z5/proprietary/lib/libcameracustom.so:system/lib/libcameracustom.so \
+    vendor/leagoo/z5/proprietary/lib/libcameraservice.so:system/lib/libcameraservice.so \
     vendor/leagoo/z5/proprietary/lib/libccci_util.so:system/lib/libccci_util.so \
     vendor/leagoo/z5/proprietary/lib/libcomutils.so:system/lib/libcomutils.so \
     vendor/leagoo/z5/proprietary/lib/libcurl.so:system/lib/libcurl.so \
